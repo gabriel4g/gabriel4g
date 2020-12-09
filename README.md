@@ -1,4 +1,4 @@
-<img width="300px" 
+<img width="330px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel4g&hide=html&layout=compact&theme=radical" alt="">
-<img width="300px"
+<img width="330px"
 src="https://github-readme-stats.vercel.app/api?username=gabriel4g&theme=radical" alt="">
