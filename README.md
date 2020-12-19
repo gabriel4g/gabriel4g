@@ -1,8 +1,8 @@
 ## Hello, world!
 
-[![linkedIn badge](https://img.shields.io/badge/gabriel4g-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel4g/){:target="_blank"}
-[![twitter badge](https://img.shields.io/badge/gabol4g-blue?style=flat-square&logo=twitter)](https://twitter.com/gabol4g){:target="_blank"}
-[![instagram badge](https://img.shields.io/badge/gabol.sk8-blue?style=flat-square&logo=instagram)](https://www.instagram.com/gabol.sk8/){:target="_blank"}
+[![linkedIn badge](https://img.shields.io/badge/gabriel4g-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel4g/)
+[![twitter badge](https://img.shields.io/badge/gabol4g-blue?style=flat-square&logo=twitter)](https://twitter.com/gabol4g)
+[![instagram badge](https://img.shields.io/badge/gabol.sk8-blue?style=flat-square&logo=instagram)](https://www.instagram.com/gabol.sk8/)
 
 My name is Gabriel, welcome to my github profile, feel free to look at my projects :blush:.
 
