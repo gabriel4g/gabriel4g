@@ -1,7 +1,7 @@
 ## Hello, world!
 
-[![linkedIn badge](https://img.shields.io/badge/linkedIn-gabriel4g-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel4g/)
-[![twitter badge](https://img.shields.io/badge/twitter-gabol4g-blue?style=flat-square&logo=twitter)](https://twitter.com/gabol4g)
+[![linkedIn badge](https://img.shields.io/badge/gabriel4g-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel4g/)
+[![twitter badge](https://img.shields.io/badge/gabol4g-blue?style=flat-square&logo=twitter)](https://twitter.com/gabol4g)
 
 My name is Gabriel, welcome to my github profile, feel free to look at my projects :blush:.
 
