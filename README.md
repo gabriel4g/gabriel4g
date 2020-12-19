@@ -16,11 +16,12 @@ My name is Gabriel, welcome to my github profile, feel free to look at my projec
 
 <details>
     <summary>Github Stats</summary>
+    <img width="320px" src="https://github-readme-stats.vercel.app/api?username=gabriel4g&theme=" alt="">
+</details>
+
+<details>
+    <summary>Github Languages Used</summary>
     <img width="320px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel4g&hide=html&layout=compact&theme=" alt="">
 
-</details>
-<details>
-    <summary>Github Languages Used</summary>
-    <img width="320px" src="https://github-readme-stats.vercel.app/api?username=gabriel4g&theme=" alt="">
 </details>
