@@ -12,7 +12,7 @@ My name is Gabriel, welcome to my github profile, feel free to look at my projec
  - :notebook: focus on nodejs, javascript and typescript.
  - :earth_americas: brazilian developer
  - :mailbox_closed: want to send an email click [here.](mailto:grupo.mariz@outlook.com)
- - :heavy_plus_sign: more information [here](https://gabriel4g.github.io/about/), observation page in Brazilian Portuguese.
+ - :heavy_plus_sign: more information [here](https://gabriel4g.herokuapp.com/).
 
 <details>
     <summary>Github Stats</summary>
